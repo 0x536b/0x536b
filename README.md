@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Finished projects
+- [gs.c - A single C file gaussian splatting renderer](https://github.com/0x536b/gs.c)
