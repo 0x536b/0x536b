@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 ## Finished projects
 - [gs.c - A single C file gaussian splatting renderer](https://github.com/0x536b/gs.c)
+- [gs.cu - A single C++/CUDA file gaussian splatting renderer](https://github.com/0x536b/gs.cu)
